@@ -1,0 +1,4 @@
+🧩Redux
+  ㄴjavascript application 의 상태를 관리하는 라이브러리.
+
+🧩Redux
